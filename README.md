@@ -5,6 +5,9 @@ A list of LLM clients that can be used to interact via Proprietary and Open mode
 | ------ | ------ |
 | Ollama | https://ollama.com/ |
 | Oobabooga | https://github.com/oobabooga/text-generation-webui |
+| LM Studio | https://lmstudio.ai/ |
+| Jan AI | https://jan.ai/ |
+| ChartWizard | https://github.com/lisiur/ChatWizard |
 
 ---
 
