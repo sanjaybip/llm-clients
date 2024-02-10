@@ -1,5 +1,5 @@
 # UI or CLI for AI
-A list of LLM clients that can be used to interact via Proprietary and Open models using UI or CLI
+A list of LLM clients that can be used to interact with proprietary and open models using UI or CLI
 
 | NAME | LINK |
 | ------ | ------ |
