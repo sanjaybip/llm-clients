@@ -7,7 +7,10 @@ A list of LLM clients that can be used to interact with proprietary and open mod
 | Oobabooga | https://github.com/oobabooga/text-generation-webui |
 | LM Studio | https://lmstudio.ai/ |
 | Jan AI | https://jan.ai/ |
+| Faraday | https://faraday.dev/ |
 | ChartWizard | https://github.com/lisiur/ChatWizard |
+| KoboldCpp | https://github.com/LostRuins/koboldcpp |
+| GPT4All | https://gpt4all.io/ |
 
 ---
 
