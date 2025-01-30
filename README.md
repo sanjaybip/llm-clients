@@ -12,6 +12,7 @@ A list of LLM clients that can be used to interact with proprietary and open mod
 | KoboldCpp | https://github.com/LostRuins/koboldcpp |
 | GPT4All | https://gpt4all.io/ |
 | EdgenAI | https://edgen.co/ |
+| HammerAI | https://hammerai.com/desktop |
 
 ---
 
